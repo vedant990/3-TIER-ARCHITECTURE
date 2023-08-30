@@ -151,9 +151,14 @@ To complete your architecture, create an Amazon RDS instance for your database w
 6. **Availability Zone:** Choose an availability zone consistent with your architecture's design.
 
 ## Architecture Diagram
-![unnamed](https://github.com/vedant990/3-TIER-ARCHITECTURE/assets/121371568/4c6bcbd2-416d-4cfc-8e0e-6d289a943dc2)
 
+
+![unnamed-EpNui7o-5-transformed](https://github.com/vedant990/3-TIER-ARCHITECTURE/assets/121371568/ec5eb594-1c5a-4309-b1d7-901232d96de3)
 
 
 
 ## Result
+
+
+https://github.com/vedant990/3-TIER-ARCHITECTURE/assets/121371568/7473c587-eee9-4ccb-812b-a529b02c50b4
+
